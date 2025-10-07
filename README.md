@@ -69,3 +69,19 @@ Use o sinal de maior que ( > ) para citar um texto:
 ---
 Linha Horizontal
 Use três hifens ( --- ) para separar seções:
+
+Atividade:
+1. Instalar o git no computador.
+2. Configurar o git.
+3. Criar conta no git hub.
+4. Configurar chave ssh.
+5. Criar um novo repositório remoto.
+6. Criar um novo repositório local.
+7. Configurar git remote no repositório local.
+8. Criar arquivo readme.md ou index.html.
+9. Fazer o primeiro commit.
+10. Fazer o primeiro push.
+11. Servir a página no git hub pages. 
+
+*Drive com a apresentação*
+[Link do google drive](https://drive.google.com/drive/folders/1hsEN2O6ke4D5qwypVDNjPSms4vX2L7UW?usp=sharing)

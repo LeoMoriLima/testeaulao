@@ -1,1 +1,3 @@
 Esse é um texto de exemplo
+
+Essa é uma nova alteração no meu exemplo texto
